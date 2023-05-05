@@ -1,0 +1,12 @@
+<svg id="Component_223_1" data-name="Component 223 – 1" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="Button">
+    <g id="button-power" transform="translate(3.125 2.5)">
+      <path id="Path" d="M10.311.084a.625.625,0,1,0-.625,1.082,5.625,5.625,0,1,1-5.622,0A.625.625,0,0,0,3.437.086a6.875,6.875,0,1,0,6.874,0Z" transform="translate(0 2.085)" fill="#525f7f"/>
+      <path id="Path-2" data-name="Path" d="M.625,5.625A.624.624,0,0,0,1.25,5V.625A.625.625,0,0,0,0,.625V5A.624.624,0,0,0,.625,5.625Z" transform="translate(6.25)" fill="#525f7f"/>
+    </g>
+  </g>
+  <g id="Rectangle_65" data-name="Rectangle 65" transform="translate(2.273 4.772) rotate(30)" fill="#525f7f" stroke="#fff" stroke-width="0.8">
+    <rect width="19" height="3" rx="1.5" stroke="none"/>
+    <rect x="0.4" y="0.4" width="18.2" height="2.2" rx="1.1" fill="none"/>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+<svg id="Button" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="button-power" transform="translate(3.125 2.5)">
+    <path id="Path" d="M10.311.084a.625.625,0,1,0-.625,1.082,5.625,5.625,0,1,1-5.622,0A.625.625,0,0,0,3.437.086a6.875,6.875,0,1,0,6.874,0Z" transform="translate(0 2.085)" fill="#172b4d"/>
+    <path id="Path-2" data-name="Path" d="M.625,5.625A.624.624,0,0,0,1.25,5V.625A.625.625,0,0,0,0,.625V5A.624.624,0,0,0,.625,5.625Z" transform="translate(6.25)" fill="#172b4d"/>
+  </g>
+</svg>
